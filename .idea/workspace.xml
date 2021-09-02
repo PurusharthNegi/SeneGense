@@ -5,20 +5,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db725b03-526f-497e-aeb7-b9065e9f361d" name="Default Changelist" comment="Userstory ID:64685&#10;Test Case ID: 65058, 65058,65057&#10;&#10;UserStory ID: 64686&#10;Test CaseID: 65060,65061,65062,65063,65064,65065, 65066">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Configs/Configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Configs/Configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FailedTestCases/failed.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FailedTestCases/failed.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smoke/CreateAChallenge_BasicChallengeDetails.feature" beforeDir="false" afterPath="$PROJECT_DIR$/smoke/CreateAChallenge_BasicChallengeDetails.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smoke/RWD_BookClub_OpenProgram_CreateProgram.feature" beforeDir="false" afterPath="$PROJECT_DIR$/smoke/RWD_BookClub_OpenProgram_CreateProgram.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/base/ReusableMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/base/ReusableMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pom/CreateAChallengeSearchTitleResultsTileView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pom/CreateAChallengeSearchTitleResultsTileView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pom/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pom/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pom_RWD/RWD_BookClub_Program_createRPDetailsScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pom_RWD/RWD_BookClub_Program_createRPDetailsScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/pom_RWD/RWD_CreateAChallengeBasicChallengeDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/pom_RWD/RWD_CreateAChallengeBasicChallengeDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/run/RunnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/run/RunnerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/run/RunnerClassWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/run/RunnerClassWeb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_BookClubProgramsCreatorRPDetailsScreen_Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_BookClubProgramsCreatorRPDetailsScreen_Steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_CreateAChallengeBasicChallengeDetails_StepDef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_CreateAChallengeBasicChallengeDetails_StepDef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_BookClubProgramsCreatorRPDetailsScreen_Steps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_CreateAChallengeBasicChallengeDetails_StepDef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_CreateaChallenge_AddTitles_StepDefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_InviteFriends.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_Login_DLX_StepDefs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_RC_Smoke_StepDef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_RP_Smoke_StepDef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_RP_StepDef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_ReadingChallengeAcceptRejectChallenge_StepDef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_SearchInviteeReadChallenge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_SearchTitles_RC_StepDef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_SetReadyByDate_RC_StepDef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/RWD_UIRefresh_PageHit_StepDef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/stepdefinitionWeb/Rwd_RC_stepDef.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/CreateAChallengeSearchTitleResultsTitle(s)Added.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/CreateAChallengeSearchTitleViewTitleDetails.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/CreateAChallenge_InviteRecentlySearchedFriends.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/CreateAChallenge_SearchAndInviteFriends.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/CreateaChallenge SearchTitleResultsMoreCTA.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/CreateaChallenge _AddTitles.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/CreateaChallengeSearchTitle ResultsSortFilter.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/CreateaChallenge_SearchTitleResultsListView.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/CreateaChallenge_SearchTitleResults_TileView.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/CreateaChallenge_SearchTitles_DefaultState.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/CreateaChallenge_SearchTitles_WithInputString.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/EditAChallenge_UpdateRCDetailsScreen.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/ReadingChallenge_Accept_RejectChallenge.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/ReadingChallenge_ChallengeAcceptedConfirmationΓò¼o╠éCΓòá┬║iΓòáe╠é.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/ReadingChallenge_ChallengeAcceptedConfirmation╬ôo╠Ç┬╝oΓòáe╠üC╬ôo╠Ça╠üΓö¼Γòæi╬ôo╠Ça╠üeΓòáe╠ü.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/ReadingChallenge_ParticipantRCDetailsScreen.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/ReadingChallenge_ReportAbuse.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/embedded9.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +104,7 @@
     </file-type-list>
   </component>
   <component name="ProjectId" id="1kYT69ODrz0HNSKTrac2RxgdHWQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
